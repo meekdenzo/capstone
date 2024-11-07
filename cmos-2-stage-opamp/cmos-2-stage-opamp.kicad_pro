@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Practice 3 Senior Design.kicad_pro",
+    "filename": "cmos-2-stage-opamp.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -477,7 +477,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "cmos-2-stage-opamp\\cmos-2-stage-opamp.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
