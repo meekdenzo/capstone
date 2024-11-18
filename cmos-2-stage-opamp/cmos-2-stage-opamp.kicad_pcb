@@ -1571,8 +1571,8 @@
 		(layer "F.Cu")
 		(uuid "37074c2c-0228-4641-a34e-a50566ab55fc")
 		(at 123.02 52.86 -90)
-		(property "Reference" "RV2"
-			(at -0.525 -4.625 90)
+		(property "Reference" "Vos Trim"
+			(at -5.17 0.06 180)
 			(layer "F.SilkS")
 			(uuid "94efdc14-76bc-4e27-b935-03aee8fd71ee")
 			(effects
@@ -3190,8 +3190,8 @@
 		(layer "F.Cu")
 		(uuid "80d132e3-0f52-4d4a-af2d-c1069f951f6d")
 		(at 131.54 53.11 -90)
-		(property "Reference" "RV3"
-			(at -0.525 -4.625 90)
+		(property "Reference" "Zero "
+			(at -5.52 -0.42 0)
 			(layer "F.SilkS")
 			(uuid "486e9cdc-e71c-4e93-ba5a-12b54d5327f4")
 			(effects
@@ -4012,8 +4012,8 @@
 		(layer "F.Cu")
 		(uuid "c1c283e8-3536-4fc5-8a13-63aee8912f3b")
 		(at 141.11 52.98 -90)
-		(property "Reference" "RV1"
-			(at -0.525 -4.625 90)
+		(property "Reference" "BiasCurrent"
+			(at -5.53 -0.05 360)
 			(layer "F.SilkS")
 			(uuid "7f24af71-1bca-43ee-abb2-6d041f9facc1")
 			(effects
@@ -9112,7 +9112,7 @@
 		(uuid "1a820bd3-8d8c-439d-9422-ee0d6be5e560")
 	)
 	(gr_text "Senior Design\n11/08/24\n"
-		(at 117.28 64.77 90)
+		(at 117.04 69.55 90)
 		(layer "F.SilkS")
 		(uuid "6d0ae0d4-03d5-4e7d-a774-482625b0a0cf")
 		(effects
@@ -9124,14 +9124,14 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "2 Stage CMOS Op-Amp"
-		(at 120.42 47.4 0)
+	(gr_text "2 Stage CMOS \nOp-Amp"
+		(at 117.35 57.27 90)
 		(layer "F.SilkS")
 		(uuid "de367384-131c-4dc7-802d-c4346f68b1a8")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
+				(size 1 1)
+				(thickness 0.25)
 				(bold yes)
 			)
 			(justify left bottom)

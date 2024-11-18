@@ -1,4 +1,4 @@
-23745267839082398
+23746998783276036
 AAMU Senior Design 2024-25
 SOT-363
 SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -82377,6 +82377,13 @@ SOT-353 SC-70-5 Handsoldering
 5
 Package_TO_SOT_SMD
 SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+Package_TO_SOT_SMD
+SOT-363_SC-70-6-2
 SOT-363, SC-70-6
 SOT-363 SC-70-6
 0
