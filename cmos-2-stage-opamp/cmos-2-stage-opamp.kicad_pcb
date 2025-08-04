@@ -4013,7 +4013,7 @@
 		(uuid "c1c283e8-3536-4fc5-8a13-63aee8912f3b")
 		(at 141.11 52.98 -90)
 		(property "Reference" "BiasCurrent"
-			(at -5.53 -0.05 360)
+			(at -5.53 -0.05 0)
 			(layer "F.SilkS")
 			(uuid "7f24af71-1bca-43ee-abb2-6d041f9facc1")
 			(effects
